@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="abstract class">
+    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="documentation">
+      <change afterPath="$PROJECT_DIR$/src/AbstractGeometricObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/GeometricObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GeometricObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.CircleTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Aufgabe11" />
@@ -104,10 +102,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircleTest" />
+        <item itemvalue="JUnit.RectangleTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="JUnit.RectangleTest" />
-        <item itemvalue="JUnit.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678718370884</updated>
-      <workItem from="1678718372333" duration="19859000" />
+      <workItem from="1678718372333" duration="25798000" />
     </task>
     <task id="LOCAL-00001" summary="lösung Aufgabe11">
       <created>1678744307625</created>
@@ -135,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678777953755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="documentation">
+      <created>1678782141002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678782141002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lösung Aufgabe11" />
     <MESSAGE value="abstract class" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract class" />
+    <MESSAGE value="documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="documentation" />
   </component>
 </project>

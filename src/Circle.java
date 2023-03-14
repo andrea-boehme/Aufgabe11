@@ -1,6 +1,7 @@
-public class Circle implements GeometricObject {
+public class Circle extends AbstractGeometricObject {
     private Point center;
     private double radius;
+
 
     /**
      * constructor method to define a circle object with given parameters
@@ -18,6 +19,7 @@ public class Circle implements GeometricObject {
     public double getRadius() {
         return radius;
     }
+
 
     /**
      * Methods to calculate circumference and area
@@ -44,3 +46,5 @@ public class Circle implements GeometricObject {
                 '}';
     }
 }
+
+

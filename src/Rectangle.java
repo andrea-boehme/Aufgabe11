@@ -10,7 +10,7 @@ public class Rectangle implements GeometricObject {
         this.bottomLeft = bottomLeft;
         this.bottomRight = bottomRight;
     }
-
+// es kann mehr als eine constructer methoden geben
     public Rectangle(Point bottomLeft, Point topRight) {
         this.topRight = topRight;
         this.bottomLeft = bottomLeft;
