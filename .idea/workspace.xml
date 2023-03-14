@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TriangleTest.java" afterDir="false" />
+    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="lösung Aufgabe11">
+      <change afterPath="$PROJECT_DIR$/test/GeometricObjectTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TriangleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,8 +97,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="JUnit.CircleTest" />
         <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,22 +110,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678718370884</updated>
-      <workItem from="1678718372333" duration="14348000" />
+      <workItem from="1678718372333" duration="16417000" />
     </task>
+    <task id="LOCAL-00001" summary="lösung Aufgabe11">
+      <created>1678744307625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678744307625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/RectangleTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lösung Aufgabe11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lösung Aufgabe11" />
   </component>
 </project>
