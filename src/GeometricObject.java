@@ -1,9 +1,13 @@
 public interface GeometricObject {
-
-    // Umfang
+    /**
+     * Method to calculate circumference
+     * @return
+     */
     double calculateCircumference();
 
-    // Fläche
+    /**
+     * Method to calculate area
+     * @return
+     */
     double calculateArea();
-
 }

@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="lösung Aufgabe11">
-      <change afterPath="$PROJECT_DIR$/test/GeometricObjectTest.java" afterDir="false" />
+    <list default="true" id="eb83cb62-c31c-4780-96c9-625b0cd5ebd8" name="Changes" comment="abstract class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeometricObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/GeometricObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GeometricObjectTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Aufgabe11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabe11" />
       <option name="PACKAGE_NAME" value="" />
@@ -96,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TriangleTest" />
         <item itemvalue="JUnit.RectangleTest" />
         <item itemvalue="JUnit.CircleTest" />
@@ -110,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678718370884</updated>
-      <workItem from="1678718372333" duration="16417000" />
+      <workItem from="1678718372333" duration="19859000" />
     </task>
     <task id="LOCAL-00001" summary="lösung Aufgabe11">
       <created>1678744307625</created>
@@ -119,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678744307625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="abstract class">
+      <created>1678777953755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678777953755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lösung Aufgabe11" />
-    <option name="LAST_COMMIT_MESSAGE" value="lösung Aufgabe11" />
+    <MESSAGE value="abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract class" />
   </component>
 </project>
